@@ -1,0 +1,3 @@
+﻿  LOSCalculation.cpp
+C:\Users\yardi\Desktop\LOS\LOSCalculation\LOSCalculation.cpp(20,20): warning C4101: 'outData': unreferenced local variable
+  LOSCalculation.vcxproj -> C:\Users\yardi\Desktop\LOS\LOSCalculation\x64\Debug\LOSCalculation.exe
